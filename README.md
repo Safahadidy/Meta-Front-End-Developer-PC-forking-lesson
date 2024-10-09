@@ -1,1 +1,14 @@
 # Meta-Front-End-Developer-PC-forking-lesson
+Crimson
+Orange
+Blue
+Cyan
+Yellow
+Charcoal
+Khaki
+Coral
+Silver
+Fuchsia
+Purple
+Brown
+Red
